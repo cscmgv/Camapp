@@ -1,0 +1,6 @@
+{
+  "name": "GeoSnap Cam",
+  "description": "GPS map integrated camera for geotagging photos with real-time location telemetry, interactive offline-capable map, and burned-in GPS stamp overlays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

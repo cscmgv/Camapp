@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GeoSnap Cam</string>
+    <string name="nav_camera">GeoCam</string>
+    <string name="nav_map">GPS Map</string>
+    <string name="nav_gallery">Field Log</string>
+    <string name="nav_offline">Offline Vault</string>
+    <string name="cd_shutter_button">Capture geotagged photo</string>
+    <string name="cd_switch_camera">Switch front and back camera</string>
+    <string name="cd_flash_toggle">Toggle camera flash mode</string>
+    <string name="cd_import_photo">Import and geotag existing photo</string>
+    <string name="cd_stamp_style">Cycle GPS stamp overlay template</string>
+    <string name="cd_calibrate_gps">Calibrate or set field waypoint coordinates</string>
+    <string name="cd_center_map">Center map on current GPS location</string>
+    <string name="cd_zoom_in">Zoom in on map</string>
+    <string name="cd_zoom_out">Zoom out on map</string>
+    <string name="cd_share_photo">Share stamped geotagged photo</string>
+    <string name="cd_delete_photo">Delete geotagged photo from offline storage</string>
+</resources>
